@@ -1,0 +1,2 @@
+# HW1_LOPEZ_OSCAR
+Homework 1 STAT1129_10
